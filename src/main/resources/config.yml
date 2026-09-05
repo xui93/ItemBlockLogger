@@ -1,1 +1,5 @@
-
+log-retention-hours: 72
+near-radius: 10
+max-results: 20
+log-item-drops: true
+log-block-breaks: true
